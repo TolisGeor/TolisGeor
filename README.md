@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TolisG
+- 👋 Hi, I’m @Tolis_G
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
